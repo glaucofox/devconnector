@@ -1,0 +1,3 @@
+{
+    "mongoURI" : "<replace with your connection string and rename file to default.json>"
+}
