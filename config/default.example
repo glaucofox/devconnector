@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "<replace with your connection string and rename file to default.json>"
+    "mongoURI" : "<replace with your connection string and rename file to default.json>",
+    "jwtSecret": "<replace with your secret>"
 }

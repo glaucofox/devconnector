@@ -8,7 +8,7 @@ A social network application using MERN stack.
 
 ## Installation
 
-Rename `./config/default.example` to `default.json` and replace the value inside `mongoURI` with your own MongoDB URI.
+Rename `./config/default.example` to `default.json` and replace the values inside with your own values.
 
 ## Run
 
