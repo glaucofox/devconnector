@@ -1,4 +1,6 @@
 {
     "mongoURI" : "<replace with your connection string and rename file to default.json>",
-    "jwtSecret": "<replace with your secret>"
+    "jwtSecret": "<replace with your secret>",
+    "githubClientId": "<replace with your github application>",
+    "githubSecret": "<replace with your github client secret>",
 }
