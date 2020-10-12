@@ -10,6 +10,7 @@ A social network application using MERN stack.
 
 - Go to [GitHub Applications](https://github.com/settings/applications) and register an oAuth application.
 - Rename `./config/default.example` to `default.json` and replace the values inside with your own values.
+- Run `yarn` to install dependencies
 
 ## Run
 
