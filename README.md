@@ -42,20 +42,3 @@ npm run server
 |---|---|--|
 | **Nodemon**  | [![npm version](https://img.shields.io/npm/v/nodemon.svg)](https://www.npmjs.org/package/nodemon) | Automates server restart on change |
 | **Concurrently** | [![npm version](https://img.shields.io/npm/v/concurrently.svg)](https://www.npmjs.org/package/concurrently) | Run multiple commands concurrently |
-
-
-## Structure
-
-```sh
-├── config
-│   └── # all config files here
-├── models
-│   └── # all models here
-├── middleware
-│   └── # all middlewares here
-├── routes 
-│   └── api
-│       └── # API routes here
-├── server.js
-└── package.json
-```
