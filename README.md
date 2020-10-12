@@ -51,6 +51,8 @@ npm run server
 │   └── # all config files here
 ├── models
 │   └── # all models here
+├── middleware
+│   └── # all middlewares here
 ├── routes 
 │   └── api
 │       └── # API routes here
